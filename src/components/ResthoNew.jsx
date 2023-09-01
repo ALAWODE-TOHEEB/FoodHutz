@@ -28,7 +28,7 @@ const ResthoNew = () => {
             </p>
           </div>
 
-          <div className="md:flex gap-1 flex-wrap justify-around items-center">
+          <div className="md:flex gap-1  justify-around items-center">
             <div className="text-white p-3">
         <img src={image} alt="" />
         <p className="">prawn with Noodles</p>
